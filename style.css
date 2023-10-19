@@ -34,14 +34,6 @@
     padding-right: 12%;
 } 
 
-.carousel-item {
-    transition: 0.1ms;
-}
-
-.carousel-item img {
-    transition: 0.1s;
-}
-
 .button {
     text-align: center;
 }
